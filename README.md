@@ -1,19 +1,24 @@
-### CAFFY ☕
+# CAFFY ☕
 
-# Descripción:
+### Descripción:
 Es un sitio web donde puedes encontrar información acerca de la cafetería CAFFY.
 
-# Lenguajes utilizados:
+### Lenguajes utilizados:
 
 ✅ HTML5 (Lenguaje de estructura)
 
 ✅ CSS3 (Lenguaje de estilos)
 
-![img](readimg/header.png)
+### Enlace:
 
-![img](readimg/products.png)
+https://miguevillatoro.github.io/caffy-project/
 
-![img](readimg/testimonial.png)
 
-![img](readimg/about.png)
+![img](/readimg/header.PNG)
+
+![img](readimg/products.PNG)
+
+![img](readimg/testimonial.PNG)
+
+![img](readimg/about.PNG)
 
