@@ -9,13 +9,11 @@ Es un sitio web donde puedes encontrar información acerca de la cafetería CAFF
 
 ✅ CSS3 (Lenguaje de estilos)
 
-(readimg/header.png)
+![img](readimg/header.png)
 
-(readimg/products.png)
+![img](readimg/products.png)
 
-(readimg/testimonial.png)
+![img](readimg/testimonial.png)
 
-(readimg/about.png)
-
-
+![img](readimg/about.png)
 
